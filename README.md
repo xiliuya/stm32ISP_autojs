@@ -1,6 +1,8 @@
 # stm32ISP_autojs
 利用串口助手，使用OTG串口烧写stm32
+
 使用步骤：
+
 1、下载并安装[串口调试助手](https://github.com/xiliuya/stm32ISP_autojs/releases/download/1.0/OTG_usb_Serial_port_1.3.apk)
 
 2、下载并安装[烧写stm32](https://github.com/xiliuya/stm32ISP_autojs/releases/download/1.0/stm32_v1.0.0.apk)
