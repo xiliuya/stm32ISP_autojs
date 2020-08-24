@@ -1,0 +1,29 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "EC0716DB-3",
+    "build_number": 3,
+    "build_time": 1598245787968,
+    "release": false
+  },
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "icon": "res/icon.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashIcon": "res/splashIcon.png",
+    "splashText": "Powered by xiliuya",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "烧写stm32",
+  "optimization": {
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "com.example.scriptstm32isp",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
