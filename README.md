@@ -19,4 +19,4 @@
 
 8、点击右上角 开始运行 悬浮窗，根据提示选择相应功能。
 
-![截图2](
+![截图2](https://github.com/xiliuya/stm32ISP_autojs/blob/master/image/Screenshot_2020-08-24-13-52-28-567_xnj.lazydog.usbserialport.jpg)。
