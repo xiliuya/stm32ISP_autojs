@@ -12,3 +12,5 @@
 5、打开 串口调试助手 并连接OTG USB串口。
 
 6、如下图，选择HEX。
+
+![截图](https://github.com/xiliuya/stm32ISP_autojs/blob/master/image/Screen_usbserialport.png)
